@@ -4,7 +4,7 @@ This is the implementation of Dreamer for the Online Decision Transformer. It us
 
 It has two versions
 
-1. "main.py" uses datasets from D4RL
+1. "main.py" uses datasets from D4RL (This is the DODT) 
 2. "new_main_online.py" has no dataset uses, and ONLY use data trajectories from Dreamer model.
 
 
