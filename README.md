@@ -28,4 +28,4 @@ python new_main_online.py
 ```
 
 ## For any questions, please contact:
-ericjiang0318@g.ucla.edu
+e*********@g.**la.edu
